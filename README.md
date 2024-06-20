@@ -2,7 +2,7 @@
 
 This is full-stack web development project ceated using HTML, CSS, JavaScript, Node.js, Express.js, EJS and relational database <strong>postgreSQL</strong>. It is a family travel tracker which consists a world map, in which different family members can be added and each member can assign different colours for them and can add countries they have visited on the world map.
 
-In order to use this project on your pc, follow these steps:-
+<h2><i>📃 In order to use this project on your pc, follow these steps:-</i></h2>
 
 1.Import the required node modules.
 
