@@ -1,6 +1,6 @@
 <h1>👨‍👩‍👧‍👦 FAMILY TRAVEL TRACKER ✈️🌍</h1>
 
-This is full-stack web development project ceated using HTML, CSS, JavaScript, Node.js, Express.js, EJS and relational database postgreSQL. It is a family travel tracker which consists a world map, different family members can be added in it, and each member can assign different colours for them and can add countries they have visited on the world map.
+This is full-stack web development project ceated using HTML, CSS, JavaScript, Node.js, Express.js, EJS and relational database postgreSQL. It is a family travel tracker which consists a world map, in which different family members can be added and each member can assign different colours for them and can add countries they have visited on the world map.
 
 In order to use this project on your pc, follow these steps:-
 
